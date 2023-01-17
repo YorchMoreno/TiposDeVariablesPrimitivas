@@ -1,0 +1,8 @@
+### VARIABLES DE TIPO PRIMITIVO
+
+Las variables de tipos primitivos almacenan directamente un valor que siempre pertenece al rango de ese tipo. Por ejemplo una variable int almacena un valor entero como 1, 2, 0, -1, etc.
+- Una variable de tipo primitivo contiene un solo valor del tamaño y formato apropiado de su tipo: un número, un carácter, o un valor booleano.
+
+**VARIABLES PRIMITIVAS**
+
+[![imagen tomada de: https://www.google.com/url?sa=i&url=http%3A%2F%2Fb-one-informatica.blogspot.com%2F2016%2F10%2Ftipos-de-datos-primitivos-java.html&psig=AOvVaw1g4rsUbJeMG-TR81cVQFk5&ust=1674052556517000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDGl_fpzvwCFQAAAAAdAAAAABAD](https://2.bp.blogspot.com/-dHvGtjOn-Po/V-047MUt9JI/AAAAAAAABH8/YfOXOaH3Ol0Wsn3XYycKPqlgDiRWxWOcwCLcB/s1600/primitivos.png "imagen tomada de: https://www.google.com/url?sa=i&url=http%3A%2F%2Fb-one-informatica.blogspot.com%2F2016%2F10%2Ftipos-de-datos-primitivos-java.html&psig=AOvVaw1g4rsUbJeMG-TR81cVQFk5&ust=1674052556517000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDGl_fpzvwCFQAAAAAdAAAAABAD")](http://https://www.google.com/url?sa=i&url=http%3A%2F%2Fb-one-informatica.blogspot.com%2F2016%2F10%2Ftipos-de-datos-primitivos-java.html&psig=AOvVaw1g4rsUbJeMG-TR81cVQFk5&ust=1674052556517000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDGl_fpzvwCFQAAAAAdAAAAABAD "imagen tomada de: https://www.google.com/url?sa=i&url=http%3A%2F%2Fb-one-informatica.blogspot.com%2F2016%2F10%2Ftipos-de-datos-primitivos-java.html&psig=AOvVaw1g4rsUbJeMG-TR81cVQFk5&ust=1674052556517000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDGl_fpzvwCFQAAAAAdAAAAABAD")
